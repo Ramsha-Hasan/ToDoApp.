@@ -1,0 +1,37 @@
+#First
+{
+text-align: center;
+color: white;
+font-style: italic;
+}
+
+input[type=text]
+ {    
+width: 400px;
+height: 40px;
+margin-left: 300px;
+text-align: center;
+font-size: 20px;
+font-style: italic;
+}
+
+#Second
+{
+ display: block;
+ margin-left: 400px;
+}
+
+body
+{
+background-image: url("maxresdefault.jpg");
+}
+
+ol
+{
+
+text-align: center;
+font-size: 35px;
+font-style: italic;
+text-align: center;
+color: white;
+}
